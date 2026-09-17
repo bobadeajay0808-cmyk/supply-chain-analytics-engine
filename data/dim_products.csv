@@ -1,0 +1,61 @@
+product_id,product_name,category,unit_cost,unit_price,lead_time_days
+SKU-1000,Office Automation Model ON-184,Office Automation,410.55,576.93,18
+SKU-1001,Industrial Tools Model TE-593,Industrial Tools,199.94,274.87,18
+SKU-1002,Raw Consumables Model FO-034,Raw Consumables,436.77,749.1,8
+SKU-1003,Industrial Tools Model DO-164,Industrial Tools,404.25,650.33,18
+SKU-1004,Electronics Model WN-525,Electronics,433.11,760.85,25
+SKU-1005,Industrial Tools Model OK-419,Industrial Tools,249.77,400.14,5
+SKU-1006,Safety Gear Model DY-832,Safety Gear,279.06,395.04,25
+SKU-1007,Raw Consumables Model RU-483,Raw Consumables,47.43,87.37,5
+SKU-1008,Safety Gear Model ZU-030,Safety Gear,142.67,179.54,12
+SKU-1009,Electronics Model NK-641,Electronics,324.43,559.35,12
+SKU-1010,Raw Consumables Model ZP-537,Raw Consumables,417.94,685.69,18
+SKU-1011,Electronics Model IP-724,Electronics,286.13,414.47,25
+SKU-1012,Office Automation Model VL-884,Office Automation,272.21,385.13,12
+SKU-1013,Electronics Model XO-696,Electronics,181.57,332.82,12
+SKU-1014,Electronics Model FW-287,Electronics,328.95,457.76,12
+SKU-1015,Electronics Model OK-012,Electronics,324.14,426.74,18
+SKU-1016,Raw Consumables Model YY-691,Raw Consumables,102.75,183.66,5
+SKU-1017,Safety Gear Model QJ-978,Safety Gear,260.02,433.53,25
+SKU-1018,Raw Consumables Model WR-018,Raw Consumables,249.83,342.73,25
+SKU-1019,Office Automation Model BK-514,Office Automation,317.23,564.12,8
+SKU-1020,Raw Consumables Model GW-704,Raw Consumables,143.6,188.59,18
+SKU-1021,Safety Gear Model OT-281,Safety Gear,110.02,165.02,12
+SKU-1022,Industrial Tools Model JX-893,Industrial Tools,68.11,99.7,5
+SKU-1023,Electronics Model AM-288,Electronics,114.15,171.94,18
+SKU-1024,Raw Consumables Model HX-570,Raw Consumables,389.42,488.4,12
+SKU-1025,Electronics Model PK-430,Electronics,225.9,376.23,8
+SKU-1026,Safety Gear Model EW-117,Safety Gear,121.19,163.72,5
+SKU-1027,Safety Gear Model QE-822,Safety Gear,173.18,317.45,18
+SKU-1028,Safety Gear Model HM-824,Safety Gear,124.53,192.82,5
+SKU-1029,Raw Consumables Model WU-638,Raw Consumables,138.91,176.71,5
+SKU-1030,Industrial Tools Model QP-346,Industrial Tools,233.67,299.3,25
+SKU-1031,Electronics Model CH-578,Electronics,290.94,482.5,25
+SKU-1032,Safety Gear Model VB-331,Safety Gear,209.79,331.83,18
+SKU-1033,Office Automation Model LO-983,Office Automation,175.8,245.29,25
+SKU-1034,Safety Gear Model OE-010,Safety Gear,442.79,659.44,5
+SKU-1035,Electronics Model GP-051,Electronics,154.54,210.47,25
+SKU-1036,Office Automation Model II-473,Office Automation,272.04,450.64,12
+SKU-1037,Industrial Tools Model PY-997,Industrial Tools,237.76,329.51,18
+SKU-1038,Electronics Model GG-763,Electronics,315.56,467.67,8
+SKU-1039,Electronics Model AD-656,Electronics,308.93,522.44,8
+SKU-1040,Industrial Tools Model ZU-010,Industrial Tools,127.2,209.37,8
+SKU-1041,Electronics Model MM-513,Electronics,239.74,337.19,5
+SKU-1042,Safety Gear Model BL-872,Safety Gear,257.86,458.88,5
+SKU-1043,Electronics Model EC-473,Electronics,166.91,281.34,12
+SKU-1044,Safety Gear Model PI-810,Safety Gear,400.88,688.68,18
+SKU-1045,Office Automation Model KA-013,Office Automation,422.0,726.35,18
+SKU-1046,Office Automation Model ZD-773,Office Automation,176.94,320.98,5
+SKU-1047,Raw Consumables Model YQ-260,Raw Consumables,138.51,198.52,8
+SKU-1048,Office Automation Model SU-746,Office Automation,298.6,413.43,5
+SKU-1049,Safety Gear Model MS-872,Safety Gear,118.2,170.83,18
+SKU-1050,Office Automation Model VI-309,Office Automation,301.06,478.98,18
+SKU-1051,Office Automation Model DL-050,Office Automation,174.96,246.54,25
+SKU-1052,Office Automation Model KD-788,Office Automation,403.04,656.42,8
+SKU-1053,Raw Consumables Model EM-812,Raw Consumables,233.65,372.94,5
+SKU-1054,Raw Consumables Model HK-136,Raw Consumables,115.13,178.4,18
+SKU-1055,Office Automation Model CN-399,Office Automation,349.32,445.79,18
+SKU-1056,Safety Gear Model KH-169,Safety Gear,219.43,311.09,12
+SKU-1057,Safety Gear Model QT-543,Safety Gear,21.72,39.25,5
+SKU-1058,Raw Consumables Model ZI-534,Raw Consumables,263.95,485.19,18
+SKU-1059,Raw Consumables Model WE-475,Raw Consumables,182.52,321.36,12

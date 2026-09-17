@@ -1,0 +1,13 @@
+supplier_id,supplier_name,country,contract_lead_time_days,sla_target_rate
+SUP-100,"Rodriguez, Figueroa and Sanchez Logistics",China,21,0.99
+SUP-101,Doyle Ltd Logistics,India,10,0.99
+SUP-102,"Mcclain, Miller and Henderson Logistics",Mexico,21,0.98
+SUP-103,Davis and Sons Logistics,Germany,30,0.99
+SUP-104,"Guzman, Hoffman and Baldwin Logistics",USA,7,0.98
+SUP-105,"Gardner, Robinson and Lawrence Logistics",USA,21,0.98
+SUP-106,Blake and Sons Logistics,USA,10,0.99
+SUP-107,"Henderson, Ramirez and Lewis Logistics",Vietnam,30,0.98
+SUP-108,Garcia-James Logistics,Germany,21,0.99
+SUP-109,Abbott-Munoz Logistics,Mexico,7,0.99
+SUP-110,Blair PLC Logistics,USA,7,0.95
+SUP-111,Dudley Group Logistics,India,14,0.99

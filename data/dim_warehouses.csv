@@ -1,0 +1,5 @@
+warehouse_id,warehouse_name,location,capacity_units
+WH-01,North Logistics Hub,"Chicago, IL",150000
+WH-02,Pacific Gateway DC,"Los Angeles, CA",180000
+WH-03,Southeast Distribution Center,"Atlanta, GA",120000
+WH-04,Northeast Fulfillment Hub,"Newark, NJ",100000
